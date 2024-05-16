@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: 'Poppins';
+}
+
+.hrclogo {
+  width: 10rem;
+  height: 10rem;
+  position: fixed;
+  left: 50%;
+  right: 50%;
+  margin-top: 0%;
+
+}
+
+.abclogo {
+  width: 10rem;
+  height: 10rem;
+  margin: 0 1em;
+  position: fixed;
+  margin-left: 0%;
+
+}
+
+.text-below {
+  font-size: 14px;
+  margin-top: 5rem;
+  text-align: center;
+}
